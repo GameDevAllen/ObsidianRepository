@@ -11,3 +11,4 @@
 - [ ] 回滚
 - 合并
 - 丢弃
+SourceTree--git--github账号同步
