@@ -16,7 +16,7 @@
 - [x] 合并
 - [x] 丢弃
 - [ ] 检出是什么
-	- 
+	- 历史回顾
 SourceTree--git--github账号同步
 
 ## ✅ 检出（Checkout）是什么？
